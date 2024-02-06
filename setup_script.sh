@@ -1,1 +1,2 @@
-docker build docker.io/samuelchung/valence:base
+docker pull samuelchung/valence:base
+docker build samuelchung/valence:base
